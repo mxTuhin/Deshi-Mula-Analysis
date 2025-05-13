@@ -45,4 +45,8 @@ This Jupyter Notebook analyzes company reviews from `Dataset_Of_Company_Review.c
 - Colors: Negative (red, `#ff4d4d`), Positive (green, `#4caf50`), Mixed (grey, `#808080`) for Charts 6a and 6b.
 - Charts 6a and 6b validate real (`upvotes > downvotes`) and fake (`upvotes <= downvotes`) reviews row-by-row.
 - Adjust file path in code if dataset name/location differs.
+
+## Dataset URL
+- Kaggle: https://www.kaggle.com/datasets/aryanrahman/deshimula-dataset-9th-may-2025/data
+
 ```
